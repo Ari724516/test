@@ -1,0 +1,6 @@
+/home/ari/Desktop/io/build/CMakeFiles/armor_main.dir
+/home/ari/Desktop/io/build/CMakeFiles/edit_cache.dir
+/home/ari/Desktop/io/build/CMakeFiles/rebuild_cache.dir
+/home/ari/Desktop/io/build/armor/CMakeFiles/armor_lib.dir
+/home/ari/Desktop/io/build/armor/CMakeFiles/edit_cache.dir
+/home/ari/Desktop/io/build/armor/CMakeFiles/rebuild_cache.dir
